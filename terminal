@@ -1,0 +1,18 @@
+org.pantheon.terminal.settings allow-bold true
+org.pantheon.terminal.settings alt-changes-tab true
+org.pantheon.terminal.settings audible-bell true
+org.pantheon.terminal.settings background '#002b36'
+org.pantheon.terminal.settings cursor-color '#93a1a1'
+org.pantheon.terminal.settings encoding ''
+org.pantheon.terminal.settings follow-last-tab true
+org.pantheon.terminal.settings font 'Monaco for Powerline 13'
+org.pantheon.terminal.settings foreground '#93a1a1'
+org.pantheon.terminal.settings opacity 89
+org.pantheon.terminal.settings palette '#002b36:#dc322f:#859900:#b58900:#268bd2:#6c71c4:#2aa198:#93a1a1:#657b83:#cb4b16:#073642:#586e75:#839496:#eee8d5:#d33682:#fdf6e3'
+org.pantheon.terminal.settings remember-tabs true
+org.pantheon.terminal.settings scrollback-lines -1
+org.pantheon.terminal.settings shell ''
+org.pantheon.terminal.settings tab-bar-behavior 'Always Show Tabs'
+org.pantheon.terminal.settings window-height 400
+org.pantheon.terminal.settings window-width 640
+
